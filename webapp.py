@@ -149,7 +149,7 @@ st.markdown("""
 
 # Login page
 if not st.session_state.logged_in:
-    st.title('Dad Trade')
+    st.title('Bad Trade')
     st.markdown("<h2 class='title'>Login to Your Account</h2>", unsafe_allow_html=True)
     st.markdown("Please log in to access the dashboard.")
     
